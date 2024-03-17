@@ -1,0 +1,385 @@
+.site__home {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 100px;
+}
+
+.home__list {
+  width: 692px;
+  height: 21.5px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin-right: 80px;
+  margin-bottom: 40px;
+}
+
+.home__box {
+  width: 30px;
+  height: 30px;
+  display: none;
+}
+
+.home__fish {
+  width: 20.75px;
+  height: 20.75px;
+}
+
+.home__panja {
+  border: none;
+  font-family: arimo;
+  color: #333333;
+  font-size: 16px;
+  line-height: 21px;
+  width: 129.32px;
+  height: 26.19px;
+  margin-right: 64px;
+  padding-bottom: 30px;
+  text-align: right;
+  margin-bottom: 35px;
+}
+
+.home__panja {
+  background-image: url(../../img/pet.png);
+  background-repeat: no-repeat;
+}
+
+.home__content {
+  background-image: url(../../img/photo_2024-03-13_17-30-54.jpg);
+  height: 700px;
+  background-repeat: no-repeat;
+}
+
+.home__title {
+  font-family: arimo;
+  font-size: 70px;
+  font-weight: 500px;
+  line-height: 500px;
+  line-height: 64px;
+  letter-spacing: 0%;
+}
+
+.home__title1 {
+  color: #78c0de;
+  font-family: arimo;
+  font-size: 70px;
+  font-weight: 500px;
+  line-height: 64px;
+  margin-bottom: 40px;
+}
+
+.home__text {
+  color: #949494;
+  font-family: arimo;
+  font-size: 16px;
+  font-weight: 500px;
+  line-height: 21px;
+  margin-bottom: 35px;
+}
+
+.home__btn {
+  background-color: #333333;
+  color: white;
+  border-radius: 7px;
+  width: 182px;
+  height: 55px;
+  padding: 14px;
+}
+
+.home__block {
+  margin-left: 630px;
+  height: 400px;
+  padding-top: 100px;
+  max-width: 600px;
+}
+
+.home__text1 {
+  color: #949494;
+  font-family: Futura PT;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin-bottom: 67px;
+}
+
+.home__tittle {
+  color: #333333;
+  font-family: Futura PT;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 26px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin-bottom: 190px;
+}
+
+.section__list {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 600px;
+  margin: 90px;
+  gap: 20px;
+}
+
+.img4 {
+  margin-bottom: 33px;
+}
+
+.section__item {
+  width: 60px;
+  gap: 20px;
+  height: 77.45px;
+}
+
+.section__text {
+  color: #333333;
+  font-family: Futura PT;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 22px;
+  text-align: center;
+  gap: 13px;
+}
+
+.title {
+  text-align: center;
+}
+
+.section__main {
+  margin-left: 330px;
+  height: 400px;
+  padding-top: 100px;
+  max-width: 600px;
+}
+
+.section__title {
+  color: #333333;
+  font-family: Futura PT;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+
+.section__text {
+  color: #949494;
+  font-family: Futura PT;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+}
+
+.btn {
+  color: white;
+  font-family: Futura PT;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 21px;
+  letter-spacing: 0%;
+  border-radius: 3px;
+  padding: 10px 30px;
+  background: #ffbd54;
+  text-align: left;
+  border: none;
+}
+
+.btn1 {
+  color: white;
+  font-family: Futura PT;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 21px;
+  letter-spacing: 0%;
+  text-align: left;
+  border-radius: 3px;
+  background: #333333;
+  padding: 10px 30px;
+  border: none;
+}
+
+.sitheader__sit {
+  margin-left: 670px;
+  height: 100px;
+  max-width: 600px;
+}
+
+.muwi {
+  background-image: url(../../img/muwi.png);
+  background-repeat: no-repeat;
+  width: 590px;
+  height: 332px;
+  margin-bottom: 100px;
+}
+
+.img__home {
+  background-image: url(../../img/kuci.png);
+  background-repeat: no-repeat;
+  /* kisspng-dog-grooming-puppy-pet-veterinarian-dogs-5ab3e2fb839b14 1 */
+  position: absolute;
+  width: 613px;
+  height: 481px;
+  left: 771px;
+  right: 56px;
+  top: 2196px;
+  bottom: -2196px;
+  margin-left: 300px;
+}
+
+.div__home {
+  background-color: #78C0DE;
+  width: 1444px;
+  height: 308px;
+  margin-top: 125px;
+}
+
+.title__home {
+  color: white;
+  font-family: Futura PT;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 20px;
+  margin-top: 30px;
+  text-align: left;
+  margin-left: 300px;
+}
+
+.btn__home {
+  color: rgba(128, 128, 128, 0.958);
+  font-family: Futura PT;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  border: none;
+  padding: 18px 12px;
+  border-radius: 5px;
+  margin-left: 300px;
+  background: white;
+}
+
+.bnt__podpis {
+  color: white;
+  font-family: Futura PT;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 21px;
+  text-align: left;
+  border: none;
+  border-radius: 3px;
+  padding: 13px 15px;
+  background: #333333;
+}
+
+.content__title {
+  color: #333333;
+  font-family: Futura PT;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+
+.img__content {
+  background-image: url(../../img/muwi.png);
+  width: 305px;
+  height: 180px;
+}
+
+.title__content {
+  color: black;
+  font-family: Futura PT;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 25px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+.content__text {
+  color: #949494;
+  font-family: Futura PT;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.home__foter {
+  color: #333333;
+  font-family: Futura PT;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 21px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+
+.text {
+  margin-left: 220px;
+  color: #949494;
+  font-family: Futura PT;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 18px;
+}
+
+.foter__img {
+  width: 305px;
+  height: 435px;
+}
+
+.head__img {
+  width: 305px;
+  height: 180px;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  width: 100%;
+}
+
+ul, ol {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  display: inline;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+/*# sourceMappingURL=main.css.map */

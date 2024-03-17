@@ -1,0 +1,215 @@
+.section__list{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 600px;
+  margin: 90px;
+  gap: 20px;
+}
+.img4{
+  margin-bottom: 33px;
+}
+.section__item{
+  width: 60px;
+  gap: 20px;
+  height: 77.45px;
+}
+.section__text{
+  color: rgb(51, 51, 51);
+font-family: Futura PT;
+font-size: 18px;
+font-weight: 500;
+line-height: 22px;
+text-align: center;
+gap: 13px;
+}
+.title{
+  text-align: center;
+}
+.section__main{
+  margin-left: 330px;
+  height: 400px;
+  padding-top: 100px;
+  max-width:600px;
+}
+.section__title{
+  color: rgb(51, 51, 51);
+font-family: Futura PT;
+font-size: 36px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0%;
+text-align: left;
+}
+.section__text{
+  color: rgb(148, 148, 148);
+font-family: Futura PT;
+font-size: 16px;
+font-weight: 400;
+line-height: 20px;
+text-align: left;
+
+}
+.btn{
+  color: rgb(255, 255, 255);
+font-family: Futura PT;
+font-size: 16px;
+font-weight: 500;
+line-height: 21px;
+letter-spacing: 0%;
+border-radius: 3px;
+padding: 10px 30px ;
+background: rgb(255, 189, 84);
+text-align: left;
+border: none;
+}
+.btn1{
+  color: rgb(255, 255, 255);
+font-family: Futura PT;
+font-size: 16px;
+font-weight: 500;
+line-height: 21px;
+letter-spacing: 0%;
+text-align: left;
+border-radius: 3px;
+background: rgb(51, 51, 51);
+padding: 10px 30px ;
+border: none;
+}
+// .muwi{
+//   width: 590px;
+//   height: 332px;
+//   left: 200px;
+// }
+.sitheader__sit{
+  margin-left: 670px;
+  height: 100px;
+  max-width:600px;
+}
+.muwi{
+  background-image: url(../../img/muwi.png);
+  background-repeat: no-repeat;
+width: 590px;
+height: 332px;
+margin-bottom: 100px;
+}
+.img__home{
+  background-image: url(../../img/kuci.png);
+  background-repeat: no-repeat;
+  /* kisspng-dog-grooming-puppy-pet-veterinarian-dogs-5ab3e2fb839b14 1 */
+position: absolute;
+width: 613px;
+height: 481px;
+left: 771px;
+right: 56px;
+top: 2196px;
+bottom: -2196px;
+//   width: 613px;
+// height: 481px;
+margin-left: 300px;
+
+}
+.div__home{
+  background-color:#78C0DE;
+  width: 1444px;
+  height: 308px;
+  margin-top: 125px;
+}
+.title__home{
+  color: rgb(255, 255, 255);
+font-family: Futura PT;
+font-size: 48px; 
+font-weight: 700;
+line-height: 20px;
+margin-top: 30px;
+text-align: left;
+margin-left: 300px;
+}
+.btn__home{
+  color: rgba(128, 128, 128, 0.958);
+font-family: Futura PT;
+font-size: 16px;
+font-weight: 400;
+line-height: 20px;
+text-align: left;
+border: none;
+padding: 18px 12px;
+border-radius: 5px;
+margin-left: 300px;
+background: rgb(255, 255, 255);
+}
+.bnt__podpis{
+  color: rgb(255, 255, 255);
+font-family: Futura PT;
+font-size: 16px;
+font-weight: 500;
+line-height: 21px;
+text-align: left;
+border: none;
+border-radius: 3px;
+padding: 13px 15px;
+background: rgb(51, 51, 51);
+}
+
+
+
+.content__title{
+  color: rgb(51, 51, 51);
+font-family: Futura PT;
+font-size: 48px;
+font-weight: 700;
+line-height: 20px;
+letter-spacing: 0%;
+text-align: center;
+}
+.img__content{
+  background-image: url(../../img/muwi.png);
+  width: 305px;
+  height: 180px;
+}
+.title__content{
+  color: rgb(0, 0, 0);
+font-family: Futura PT;
+font-size: 22px;
+font-weight: 700;
+line-height: 25px;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom: 10px;
+}
+.content__text{
+  color: rgb(148, 148, 148);
+font-family: Futura PT;
+font-size: 16px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom: 20px;
+}
+.home__foter{
+  color: rgb(51, 51, 51);
+font-family: Futura PT;
+font-size: 16px;
+font-weight: 500;
+line-height: 21px;
+letter-spacing: 0%;
+text-align: left;
+}
+.text{
+  margin-left: 220px;
+  color: rgb(148, 148, 148);
+font-family: Futura PT;
+font-size: 14px;
+font-weight: 500;
+line-height: 18px;
+}
+.foter__img{
+  width: 305px;
+  height: 435px;
+  // margin-left: 400px;
+}
+.head__img{
+  width: 305px;
+  height: 180px;
+}
